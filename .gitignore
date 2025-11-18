@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel and outputs
+*.xlsx
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
