@@ -15,6 +15,13 @@ A Python tool to fetch option chains, compute Black-Scholes prices, Greeks, impl
 
 ---
 
+## Screenshots
+
+<img src="screenshots/Screenshot (137).png" width="600"/>
+<img src="screenshots/Screenshot (138).png" width="600"/>
+<img src="screenshots/Screenshot (139).png" width="600"/>
+
+
 ## Installation
 
 1. Clone the repository:
